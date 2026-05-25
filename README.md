@@ -1,4 +1,4 @@
-## Hi there 👋
+BSCS student at the University of Engineering and Technology with a growing interest in programming and computer science. Currently building my foundation in core CS subjects and enhancing my problem-solving skills. I am motivated to learn, experiment with new technologies, and develop a strong career in the tech field.”
 
 <!--
 **rabiyazahra/rabiyazahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
